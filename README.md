@@ -2,9 +2,13 @@
  untuk tutorial sudah aku jelasin di vt akun @elasdump, kalian bisa pakai mikrokontroller apa aja (Arduino UNO/Nano/ESP32/8266).
 
  Materials Needed :
+ 
  Microcontroller
+ 
  I2C OLED Display 0.96" (128x64)
+ 
  Breadboard/Project Board
+ 
  Jumper/Wires (4 pcs)
 
  Arduino Nano Schematic :
