@@ -4,13 +4,13 @@
 
  Materials Needed :
  
- Microcontroller
+ - Microcontroller
  
- I2C OLED Display 0.96" (128x64)
+ - I2C OLED Display 0.96" (128x64)
  
- Breadboard/Project Board
+ - Breadboard/Project Board
  
- Jumper/Wires (4 pcs)
+ - Jumper/Wires (4 pcs)
 
  Arduino Nano Schematic :
  
